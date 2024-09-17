@@ -6,6 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <a ref="pagina2.php">
+    <button type="submit">
+        Ir para a pagina 2
+    </button>
+    </a>
 </body>
 </html>
